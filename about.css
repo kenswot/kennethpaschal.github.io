@@ -65,9 +65,11 @@ ul li a{
 }
 .contact h3{
     color: black;
+
 }
 .contact  p{
     color: black;
+    cursor: pointer;
 }
 .contact a{
     color: black;
